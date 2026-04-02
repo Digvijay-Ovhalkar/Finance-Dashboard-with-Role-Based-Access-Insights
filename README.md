@@ -7,7 +7,7 @@ This project demonstrates clean UI design, component-based architecture, and eff
 ---
 
 ## 🚀 Live Demo
-👉 (Add your deployed link here – Vercel/Netlify)
+👉 ((https://finance-dashboard-with-role-based-a.vercel.app/))
 
 ---
 
